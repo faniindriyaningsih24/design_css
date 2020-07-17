@@ -1,2 +1,2 @@
 Design menggunakan CSS
-Kekurangannya --> belum responsive
+--> belum responsive
